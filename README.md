@@ -2,6 +2,6 @@
 
 Conoce a tu **enemigo** y conócete a ti mismo; en cien batallas, nunca saldrás derrotado.
 
-![Alt text](/blob/main/SUNTZU.png)
+![Alt text](SUNTZU.png)
 
 SUN TZU
